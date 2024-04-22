@@ -1,3 +1,8 @@
+# Timothy Davis
+# Final Project
+# CS 430-02
+# AI Chess Project
+
 import chess
 import time
 import random as rand
